@@ -1,0 +1,14 @@
+{
+	"book": [
+		{
+			"title": "Title",
+			"number": "Number",
+			"month": "Month",
+			"year": "Year",
+			"publisher": "Publisher",
+			"condition": 50,
+			"value": "Value",
+			"picture": "04"
+		}
+	]
+}
