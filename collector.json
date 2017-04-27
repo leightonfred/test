@@ -12,7 +12,10 @@
 		},
 		{
 			"condition": 50,
-			"picture": "05"
+			"picture": "05",
+			"title": "Superman vs. Muhamed Ali",
+			"number": "na",
+			"month": "January"
 		}
 	]
 }
