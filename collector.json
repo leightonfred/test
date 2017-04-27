@@ -9,6 +9,10 @@
 			"condition": 61,
 			"value": "500",
 			"picture": "04"
+		},
+		{
+			"condition": 50,
+			"picture": "05"
 		}
 	]
 }
