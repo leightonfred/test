@@ -1,13 +1,13 @@
 {
 	"book": [
 		{
-			"title": "Title",
-			"number": "Number",
-			"month": "Month",
-			"year": "Year",
-			"publisher": "Publisher",
-			"condition": 25,
-			"value": "Value",
+			"title": "Batman Family",
+			"number": "2",
+			"month": "December",
+			"year": "1974",
+			"publisher": "DC",
+			"condition": 36,
+			"value": "500",
 			"picture": "04"
 		}
 	]
