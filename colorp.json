@@ -2,6 +2,7 @@
 	"pallet": [
 		{
 			"large_pallet_name": [
+				"name",
 				"name"
 			],
 			"hue": 180,
