@@ -6,16 +6,19 @@
 			"month": "December",
 			"year": "1974",
 			"publisher": "DC",
-			"condition": 61,
+			"condition": 49,
 			"value": "500",
 			"picture": "04"
 		},
 		{
-			"condition": 50,
+			"condition": 93,
 			"picture": "05",
 			"title": "Superman vs. Muhamed Ali",
 			"number": "na",
-			"month": "January"
+			"month": "January",
+			"year": "1976",
+			"publisher": "DC",
+			"value": "800"
 		}
 	]
 }
